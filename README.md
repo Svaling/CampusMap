@@ -1,2 +1,2 @@
-# CampusMap
-A toy map Android app.
+# Campus Map
+Using Amap and Baidumap SDK
